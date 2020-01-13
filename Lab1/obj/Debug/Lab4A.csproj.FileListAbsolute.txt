@@ -1,0 +1,6 @@
+C:\Users\CHIRAG\source\repos\lab 4A\Lab1\bin\Debug\Lab1.exe
+C:\Users\CHIRAG\source\repos\lab 4A\Lab1\bin\Debug\Lab1.pdb
+C:\Users\CHIRAG\source\repos\lab 4A\Lab1\obj\Debug\Lab4A.csprojAssemblyReference.cache
+C:\Users\CHIRAG\source\repos\lab 4A\Lab1\obj\Debug\Lab4A.csproj.CoreCompileInputs.cache
+C:\Users\CHIRAG\source\repos\lab 4A\Lab1\obj\Debug\Lab1.exe
+C:\Users\CHIRAG\source\repos\lab 4A\Lab1\obj\Debug\Lab1.pdb
